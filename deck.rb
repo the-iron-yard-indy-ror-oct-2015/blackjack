@@ -20,4 +20,8 @@ class Deck
     self.cards = cards.shuffle
   end
 
+  def draw
+    cards.shift
+  end
+
 end
