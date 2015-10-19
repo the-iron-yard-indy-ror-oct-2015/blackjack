@@ -1,2 +1,5 @@
-# blackjack
-Blackjack Lab Review and Git Demo
+# Blackjack
+
+The classic gambling card game, done in Ruby and pushed to GitHub.
+
+_Aces._
