@@ -13,6 +13,11 @@ class Deck
         cards << Card.new(face, suit)
       end
     end
+    shuffle
+  end
+
+  def shuffle
+    self.cards = cards.shuffle
   end
 
 end
